@@ -1,0 +1,7 @@
+Appliquez une propriété CSS à une balise HTML
+
+On écrit le nom de la balise. Puis entre accolades { } on écrit les propriétés et leurs valeurs. (On peut mettre autant de propriétés que l'on veut à l'intérieur des accolades).
+
+Chaque propriété est suivie du symbole : puis de la valeur correspondante.
+
+Chaque ligne se termine par ;.

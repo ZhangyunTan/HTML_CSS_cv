@@ -1,3 +1,14 @@
-h1 {
-    color: red;
+/* Appliquez une propriété CSS à une balise HTML */
+h1, p {
+    color: blue;
  }
+
+ /* On écrit le nom de la balise. Puis entre accolades { } 
+    on écrit les propriétés et leurs valeurs. */
+
+.ma-class {
+    color: #663399; 
+}
+
+
+/* id ne peut être utilisé qu'une fois dans le code */
