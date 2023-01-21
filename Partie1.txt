@@ -1,0 +1,16 @@
+Partie 1 - Maîtriser les bases de HTML5
+     1. Tirez un maximum de ce cours 
+     2. Comprenez la différence entre HTML et CSS
+     3. Créer votre première page web en HTML 
+     4. Organisez votre texte 
+     5. Créer un lien hypertexte en HTML
+     6. Insérez des images 
+
+
+Quiz: Maîtriser les bases de HTML5
+
+
+
+
+     
+ 
